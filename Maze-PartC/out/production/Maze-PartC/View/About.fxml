@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.211" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label prefHeight="44.0" prefWidth="539.0" text="JavaFX project created By:" />
+      <Label layoutY="36.0" prefHeight="17.0" prefWidth="278.0" text="contacts : Gal Azaria galAzaria3@gmail.com" />
+      <Label layoutX="7.0" layoutY="53.0" prefHeight="17.0" prefWidth="292.0" text="             Maxim Bragilovski : maximbr@post.bgu.ac.il" />
+   </children>
+</AnchorPane>

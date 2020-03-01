@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.211" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
+   <children>
+      <Label layoutX="134.0" layoutY="100.0" prefHeight="46.0" prefWidth="110.0" text="Number Of threds :" textFill="RED" />
+      <Label fx:id="A" layoutX="272.0" layoutY="106.0" prefHeight="34.0" prefWidth="57.0" />
+      <Label layoutX="134.0" layoutY="161.0" prefHeight="34.0" prefWidth="99.0" text="Genrate Methood:" textFill="RED" />
+      <Label fx:id="B" layoutX="272.0" layoutY="161.0" prefHeight="34.0" prefWidth="57.0" />
+      <Label layoutX="134.0" layoutY="204.0" prefHeight="46.0" prefWidth="99.0" text="Slover:" textFill="RED" />
+      <Label fx:id="C" layoutX="271.0" layoutY="210.0" prefHeight="34.0" prefWidth="74.0" />
+   </children>
+</AnchorPane>
